@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi
+
+I love writing code and facing the challenges that come with being a software developer.
+
+I originally am a self taught developer but am currently studying a Bachelor of ICT at Western Sydney University, right now I am on exchange and I have joined the Bachelor of Artificial Intelligence at Universitat Autònoma de Barcelona.
+
+My current focus is learning machine learning and neural networks.
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <!--
 **rexbrandy/rexbrandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
