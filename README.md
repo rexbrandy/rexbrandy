@@ -6,7 +6,7 @@ I originally am a self taught developer but am currently studying a Bachelor of 
 
 My current focus is learning machine learning and neural networks.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rexbrandy)](https://git.io/streak-stats)
 
 <!--
 **rexbrandy/rexbrandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
