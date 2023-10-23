@@ -1,4 +1,4 @@
-### Hi
+### Hi 👋, I'm Bailey
 
 I love writing code and facing the challenges that come with being a software developer.
 
