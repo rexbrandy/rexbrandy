@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bailey</h1>
+<h1 align="left">Hi 👋, I'm Bailey</h1>
 
 I am an Australian developer currently living in Spain. I enjoy writing code and facing the challenges that come with being a software developer.
 
@@ -8,8 +8,8 @@ I'm focused on learning more about deep learning and neural networks, I have und
 built using Django, for more info feel free to visit the repositories on my profile.
 
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> 
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
