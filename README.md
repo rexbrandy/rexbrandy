@@ -34,4 +34,4 @@ built using Django, for more info feel free to visit the repositories on my prof
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>  
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rexbrandy&show_icons=true&locale=en" alt="rexbrandy" /></p>
+<p>&nbsp;[![GitHub Streak](https://streak-stats.demolab.com/?user=rexbrandy&theme=dark)](https://git.io/streak-stats)</p>
