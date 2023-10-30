@@ -35,5 +35,3 @@ built using Django, for more info feel free to visit the repositories on my prof
 </p>
 
 <p>&nbsp; </p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rexbrandy&theme=dark&hide_border=true)](https://git.io/streak-stats)
